@@ -5,6 +5,6 @@
     "description": "This is a completely non-functional test item used purely to benchmark the internal extension architecture. Installing this will not alter browser behavior.",
     "version": "1.0",
     "author": "Electus",
-    "download_url": "https://raw.githubusercontent.com/Electus2000/nulla-extensions/main/extensions/test_dummy.zip"
+    "download_url": "https://raw.githubusercontent.com/Electus2000/nulla-extensions/main/extensions/dummy-extension.zip"
   }
 ]
