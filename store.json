@@ -1,0 +1,10 @@
+[
+  {
+    "id": "test_dummy_addon",
+    "name": "System Test Dummy Extension",
+    "description": "WARNING: This is a completely non-functional test item used purely to benchmark the internal extension architecture. Installing this will not alter browser behavior.",
+    "version": "1.0.0",
+    "author": "NullA Core Dev",
+    "download_url": "https://raw.githubusercontent.com/Electus2000/nulla-store.github.io/main/extensions/test_dummy.zip"
+  }
+]
